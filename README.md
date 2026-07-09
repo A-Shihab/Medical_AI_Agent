@@ -304,14 +304,14 @@ gradio>=4.0.0
 jupyter>=1.0.0
 ```
 
-## 🤝 Contributing
+## 👥 Contributors
 
-Feel free to:
-- Add more medical datasets
-- Improve query routing logic
-- Enhance the Gradio interface
-- Add visualization features
-- Improve error handling
+This project was collaboratively developed by:
+
+- **Asaduzzaman Shihab**
+- **Wasee Ahsan**
+
+Both contributors participated in the design and development of the project. Individual responsibilities varied across the AI agent architecture, tool development, database integration, and documentation.
 
 ## 📄 License
 
